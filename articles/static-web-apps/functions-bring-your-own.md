@@ -36,7 +36,7 @@ https://red-sea-123.azurestaticapps.net/api/getProducts
 
 ## Link an existing Azure Functions app
 
-Before you associate an existing Functions app, you first need to adjust to configuration of your static web app.
+Before you associate an existing Functions app, you first need to adjust the configuration of your static web app.
 
 1. Set `api_location` value to an empty string (`""`) in the [workflow configuration](./github-actions-workflow.md) file.
 
